@@ -54,7 +54,7 @@ thinking skills and methodological approach.
 
 ## Get in Touch
 
-[Encourage others to reach out to you for collaboration, questions, or discussions.]
+<!-- [Encourage others to reach out to you for collaboration, questions, or discussions.] -->
 
 Feel free to reach out to me via [email](mailto:contact.hurayra@gmail.com)
 
