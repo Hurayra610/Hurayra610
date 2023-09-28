@@ -30,34 +30,36 @@ thinking skills and methodological approach.
 
 ## My Projects
 
-[Provide an overview of some of your notable projects. Include links to their GitHub repositories or live demos.]
+<!-- [Provide an overview of some of your notable projects. Include links to their GitHub repositories or live demos.]
 
 - [Project Name](https://github.com/your-username/project-name): Brief project description.
-- [Another Project](https://github.com/your-username/another-project): Brief project description.
+- [Another Project](https://github.com/your-username/another-project): Brief project description. -->
 
 ## Connect with Me
 
-[Include links to your social media profiles, personal website, or other ways for people to connect with you.]
+<!-- [Include links to your social media profiles, personal website, or other ways for people to connect with you.] -->
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-handle)
-- [Website](https://www.yourwebsite.com)
+- [GitHub](https://github.com/Hurayra610)
+- [LinkedIn](https://www.linkedin.com/in/md-abu-hurayra-shrabon-64b47b1b3/)
+  <!-- - [Twitter](https://twitter.com/your-handle) -->
+  <!-- - [Website](https://www.yourwebsite.com) -->
 
 ## Stats
 
-[You can include GitHub statistics using shields and badges to showcase your contributions.]
+<!-- [You can include GitHub statistics using shields and badges to showcase your contributions.]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username) -->
 
 ## Get in Touch
 
 [Encourage others to reach out to you for collaboration, questions, or discussions.]
 
-Feel free to reach out to me via [email](mailto:youremail@example.com) or [GitHub Issues](https://github.com/your-username/your-repo/issues).
+Feel free to reach out to me via [email](mailto:contact.hurayra@gmail.com)
+
+<!-- or [GitHub Issues](https://github.com/your-username/your-repo/issues). -->
 
 ## Thanks for visiting my profile! 😄
 
-[Add any closing remarks or expressions of gratitude.]
+<!-- [Add any closing remarks or expressions of gratitude.] -->
