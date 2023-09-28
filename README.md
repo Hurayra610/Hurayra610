@@ -17,7 +17,7 @@ thinking skills and methodological approach.
 
 ## My Skills
 
-**Project Management, **Full Stack Development, \*\*Cross-Platform Development, Android/IOS Development
+**Project Management**, **Full Stack Development**, **Cross-Platform Development**, **Android/IOS Development**
 
 - **Programming Languages:** [Dart, Javascript, TypeScript, Node, Python, Java, Kotlin, C++, SQL]
 - **Language Frameworks:** React JS, Flutter, React Native, Express JS, DJango, Bootstrap, Tailwind, Matreialize CSS, Foundation.
