@@ -1,6 +1,6 @@
 # Hello, I'm Md. Abu Hurayra! 👋
 
-Skilled Web & Mobile Application Developer with “Project Management” skill and 4+ years’ of professional
+Skilled Web & Mobile Application Developer with “Project Management” skill and 6+ years’ of professional
 experience in challenging development environment. Deadline-driven and knowledgeable professionals with
 a strong desire to learn and contribute to the success of the resource team with effective communication and
 organizational skills to solve a variety of problems. Succeeding in improving usability, performance and
