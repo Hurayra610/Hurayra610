@@ -1,32 +1,64 @@
-# Hello, I'm Md. Abu Hurayra! 👋
+# 👋 Hello, I'm Md. Abu Hurayra
 
-Skilled Web & Mobile Application Developer with “Project Management” skill and 6+ years’ of professional
-experience in challenging development environment. Deadline-driven and knowledgeable professionals with
-a strong desire to learn and contribute to the success of the resource team with effective communication and
-organizational skills to solve a variety of problems. Succeeding in improving usability, performance and
-functionality by applying skills to personal websites. Collaborative and hardworking team players with critical
-thinking skills and methodological approach.
+## 🚀 Engineering Leader | Deputy IT Manager | Digital Transformation Strategist
 
-## About Me
+Technology leader with 7+ years of experience architecting scalable enterprise systems, leading cross-functional engineering teams, and driving digital transformation initiatives.
 
-- 🔭 I'm currently working on AKIJ RTM SFA Application Project.
-- 🌱 I'm passionate about Project Management, Full Stack Development, Cross-Platform Development.
-- 💼 I'm a Assistant Manager, IT at AKIJ VENTURE GROUP.
-- 📚 I enjoy learning new technologies and contributing to open-source projects.
-- 🎓 I hold a degree in Computer Science & Engineering from Jiangxi Normal University, China.
+Currently serving as **Deputy IT Manager**, leading 30+ engineers across Backend, Frontend, Mobile, QA, DevOps, and Infrastructure — delivering enterprise platforms that support high-volume transactions and business-critical operations.
 
-## My Skills
+---
 
-**Project Management**, **Full Stack Development**, **Cross-Platform Development**, **Android/IOS Development**
+## 🏢 What I Do
 
-- **Programming Languages:** Dart, Javascript, TypeScript, Node, Python, Java, Kotlin, C++, SQL
-- **Language Frameworks:** React JS, Flutter, React Native, Express JS, DJango, Bootstrap, Tailwind, Matreialize CSS, Foundation.
-- **Web Technologies:** HTML, CSS, JavaScript, HTTP, HTTPS, Web Servers, AJAX, JSON, XML, REST, Web APIs, Hosting, CMS, PWA.
-- **Tools & Frameworks:** Visual Studio Code (VS Code), IntelliJ IDEA, PyCharm, Eclipse, Xcode, git, Github, Gitlab, NPM, PNPM, PIP, Github Action, Gitlab CI/CD, Jenkins.
-- **Database Systems:** MongoDB, MySQL, SQLServer, Firebase, Oracle.
-- **Containerization and Orchestration:** Docker, Kubernetes.
-- **Collaboration and Communication:** Slack, Microsoft Teams, Jira, Asana, Trello, Zoom.
-- **Other Skills:** Webpack, Babel, Cypress, Swagger/OpenAPI, Postman, TestFlight (iOS), Google Play Console (Android), Firebase Test Lab
+- 🏗 Architect scalable backend systems (250K+ daily transactions)
+- ⚙️ Drive DevOps & CI/CD transformation (release cycle reduced from 14 days to 2 days)
+- 📊 Build data-driven ecosystems (ERP, HRIS, RTM, MABI, BI Platforms)
+- 🛒 Design E-commerce & Distribution Systems
+- 📈 Align engineering execution with business KPIs
+- 👥 Scale teams, processes, and delivery frameworks
+
+---
+
+## 🧠 Technology Leadership Focus
+
+- Engineering Management  
+- Enterprise Architecture  
+- Digital & Agile Transformation  
+- DevOps Automation  
+- Data & Business Intelligence  
+- AI-Driven Digitalization  
+
+---
+
+## 🛠 Technical Expertise
+
+### Backend & Architecture
+Node.js | Express.js | REST APIs | Microservices | SQL | System Design
+
+### Frontend & Mobile
+React.js | Flutter | TypeScript | Cross-Platform Development
+
+### DevOps & Infrastructure
+Docker | Kubernetes | CI/CD | GitHub Actions | GitLab CI | Jenkins
+
+### Databases
+MySQL | MongoDB | SQL Server | Firebase | Oracle
+
+### Tools & Collaboration
+Jira | Slack | Microsoft Teams | Asana | GitHub | GitLab
+
+---
+
+## 📊 Enterprise Platforms Delivered
+
+- 🏢 Enterprise ERP System
+- 👥 HRIS (Human Resource Information System)
+- 🚚 Route-to-Market (RTM) Platform
+- 📍 Market Audit & Business Intelligence (MABI)
+- 🛒 E-commerce Commerce Ecosystem
+- 🔄 DevOps Automation Framework
+
+---
 
 ## My Projects
 
@@ -35,9 +67,11 @@ thinking skills and methodological approach.
 - [Project Name](https://github.com/your-username/project-name): Brief project description.
 - [Another Project](https://github.com/your-username/another-project): Brief project description. -->
 
-## Connect with Me
+## 🌍 Connect With Me
 
-<!-- [Include links to your social media profiles, personal website, or other ways for people to connect with you.] -->
+- 💼 LinkedIn: [https://www.linkedin.com/in/md-abu-hurayra-shrabon-64b47b1b3/]
+- 🧑‍💻 GitHub: You're already here 😉
+- 📩 Email: contact.hurayra@gmail.com
 
 - [GitHub](https://github.com/Hurayra610)
 - [LinkedIn](https://www.linkedin.com/in/md-abu-hurayra-shrabon-64b47b1b3/)
