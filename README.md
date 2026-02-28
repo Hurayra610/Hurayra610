@@ -33,19 +33,19 @@ Currently serving as **Deputy IT Manager**, leading 30+ engineers across Backend
 ## 🛠 Technical Expertise
 
 ### Backend & Architecture
-Node.js | Express.js | REST APIs | Microservices | SQL | System Design
+Node.js | Nest.js | Express.js | REST APIs | Microservices | SQL | System Design
 
 ### Frontend & Mobile
-React.js | Flutter | TypeScript | Cross-Platform Development
+React.js | Next.js | Flutter | TypeScript | Cross-Platform Development
 
 ### DevOps & Infrastructure
 Docker | Kubernetes | CI/CD | GitHub Actions | GitLab CI | Jenkins
 
 ### Databases
-MySQL | MongoDB | SQL Server | Firebase | Oracle
+MySQL | PostgreSQL | MongoDB | SQL Server | Firebase | Oracle | DynamoDB | RDS
 
 ### Tools & Collaboration
-Jira | Slack | Microsoft Teams | Asana | GitHub | GitLab
+Jira | Slack | Microsoft Teams | Asana | GitHub | GitLab | Custom Own Project Management Solution
 
 ---
 
