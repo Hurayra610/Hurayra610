@@ -63,7 +63,7 @@ Jira | Slack | Microsoft Teams | Asana | GitHub | GitLab | Custom Own Project Ma
 ## 🌍 Connect With Me
 
 - 👥 Portfolio Site: https://abuhurayra-portfolio.vercel.app
-- 💼 LinkedIn: https://www.linkedin.com/in/md-abu-hurayra-shrabon-64b47b1b3
+- 💼 LinkedIn: https://www.linkedin.com/in/md-abu-hurayra-64b47b1b3
 - 🧑‍💻 GitHub: You're already here 😉
 - 📩 Email: contact.hurayra@gmail.com
 
